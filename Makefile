@@ -1,5 +1,5 @@
 
-TARGET = TermTIX
+TARGET = termtix
 
 CC = gcc
 
